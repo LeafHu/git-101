@@ -1,3 +1,9 @@
+# learn git branching网站的题目解答-Main部分
+http://blog.codepiano.com/2013/12/22/learn-git-branching-solution-main
+
+# learn git branching网站的题目解答-Remote部分
+http://blog.codepiano.com/2013/12/29/learn-git-branching-solution-remote
+
 # 主要
 
 ## 1. 基础篇
